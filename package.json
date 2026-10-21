@@ -1,0 +1,17 @@
+{
+  "name": "alightmotion-api",
+  "version": "1.0.0",
+  "description": "Zero-dependency client & developer documentation for Alight Motion Pro REST API Gateway",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "alight-motion",
+    "alightmotion-pro",
+    "alight-motion-api",
+    "preset-downloader",
+    "firebase-auth",
+    "rest-api"
+  ],
+  "author": "yanzyuyu",
+  "license": "MIT"
+}
